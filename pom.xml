@@ -21,11 +21,11 @@
     </repositories>
 
     <dependencies>
-        <!--<dependency>-->
-            <!--<groupId>com.gitlab.Medelyan</groupId>-->
-            <!--<artifactId>crypt</artifactId>-->
-            <!--<version>Tag</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>com.gitlab.Medelyan</groupId>
+            <artifactId>crypt</artifactId>
+            <version>0.3.0</version>
+        </dependency>
     </dependencies>
 
 </project>
